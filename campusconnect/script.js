@@ -8,7 +8,7 @@ function books() {
   }
 }
 function clubs() {
-  window.open("index1.html", '_blank');
+  window.open("campusconnect\index1.html", '_blank');
   
 }
 function sports() {
