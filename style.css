@@ -89,7 +89,7 @@ p5 {
     cursor: pointer;
 }
 .tech{
-    position:relative;
+   margin-left: 10px;
 }
 .container {
    padding: 0 1em;
