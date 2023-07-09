@@ -1,5 +1,10 @@
+html,boby{
+    padding-left: 10px;
+    padding-right: 10px;
+}
 body{
     background-color: rgb(73, 231, 223);
+    margin-bottom: 10%;
 }
 #h{
     background-color: rgb(0, 255, 153);
@@ -34,6 +39,11 @@ p5 {
     position: relative;
     top:440px;
     padding-bottom: 20px;
+  }
+p10{
+    position:relative;
+    left:-3%;
+    bottom:50px;
   }
 #pic1{
    padding-left: 10px;
@@ -86,6 +96,7 @@ p5 {
 #buttondm{
     padding-left: 46%;
     margin-top: -330px;
+    padding-bottom: 10%;
     cursor: pointer;
 }
 .tech{
@@ -102,3 +113,6 @@ header{
 #h{
     font-size: clamp(2rem,1rem+10vw,7rem);
 }
+.extra-space {
+    height: 100px; 
+  }

@@ -1,5 +1,5 @@
 function books() {
-  var confirmation = confirm("The webpage is still in development phase.Users can upload and view all the files.So we request all the users to upload their content in any file type.Please be responsible and upload  the related content only.Thank you for spending your valuable time with us.");
+  var confirmation = confirm("This webpage is still in development phase.Users can upload and view all the files.So we request all the users to upload their content in any file format.Please be responsible and upload  the related content only.Thank you for spending your valuable time with us.Press OK button to view the content.");
 
   if (confirmation) {
     window.open("https://drive.google.com/drive/folders/1vIJNjg-uDIQuTV1HN1-tD18MiyYJqKlU","_blank"); 
