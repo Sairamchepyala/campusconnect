@@ -17,5 +17,17 @@ function sports() {
 function club() {
   window.location.href = 'https://anurag.edu.in/discover/campus-life/clubs-activities/';
 }
+function chat() {
+  window.open("https://discord.com/channels/1127478803573244036/1127478803573244039", '_blank');
+  
+}
+function DM() {
+  const emailAddress = '20eg104110@anurag.edu.in'; 
+  const subject = 'replying as feedback for campusconnect webpage'; 
+  const body = 'Thank you for being here and trying to give us the the feedback'; 
+
+  const emailLink = `mailto:${emailAddress}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  window.open(emailLink);
+}
 
 
