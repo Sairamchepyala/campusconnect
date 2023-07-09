@@ -18,7 +18,7 @@ function club() {
   window.location.href = 'https://anurag.edu.in/discover/campus-life/clubs-activities/';
 }
 function chat() {
-  window.open("https://discord.com/channels/1127478803573244036/1127478803573244039", '_blank');
+  window.open("https://discord.gg/m6sxyrxZ", '_blank');
   
 }
 function DM() {
